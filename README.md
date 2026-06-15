@@ -1,3 +1,5 @@
+[Arduino Radar System](Hardware.jpg)
+
 # Arduino Radar System
 
 ## Overview
